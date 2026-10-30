@@ -1,0 +1,40 @@
+{
+  "name": "surya-jasa",
+  "version": "1.0.0",
+  "description": "High-Conversion Full-Stack Developer & Website Builder Portfolio by Nur Hidayat Surya Pamungkas",
+  "private": true,
+  "author": "Nur Hidayat Surya Pamungkas <suryapamungkas0799@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/suryapamungkas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryapamungkas/surya-jasa.git"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-accordion": "^1.3.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^14.9.0",
+    "lenis": "^1.3.27",
+    "lucide-react": "^1.65.0",
+    "next": "^15.5.28",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "simple-icons": "^16.36.0",
+    "tailwind-merge": "^3.7.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3"
+  }
+}
